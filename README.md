@@ -1,9 +1,19 @@
 ### Hi👋, I'm Anower Hossen
 ![](https://media.licdn.com/dms/image/D5616AQEFao7FVualvg/profile-displaybackgroundimage-shrink_350_1400/0/1717909894555?e=1723680000&v=beta&t=tld1AEcQGTmBsvZItSV4vb-3cg_Jat6YNqymbNSWlaE)
+👑 I am Web Developer
+🖊️ Love to write code
+
+🚀 About Me
 
 I'm Anower Hossen , a passionate and dedicated Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React, and Node.js). With a keen eye for detail and a drive for excellence, I thrive on turning complex problems into elegant, efficient, and user-friendly solutions.
 
-Skills:   HTML / CSS / React / Js / Node.js /MongoDB / Firebase / JWT 
+👨‍💻 Skills & Experiance:
+✅ JavaScript
+✅ React
+✅ Firebase
+✅ Node.js / MongoDB /  / JWT 
+✅ HTML5 / CSS3 / SASS / Bootstrap
+
 
 - 🔭 I’m currently working on BloodyBoy 
 - 🌱 I’m currently learning Web devopemnt 
