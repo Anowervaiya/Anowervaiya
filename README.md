@@ -21,7 +21,7 @@ I'm Anower Hossen , a passionate and dedicated Full Stack Developer specializing
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anowervaiya&show_icons=true&locale=en" alt="anowervaiya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anowervaiya&" alt="anowervaiya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anowervaiya&" alt="anowervaiya" /></p>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anowervaiya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/anowervaiya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/anowerhossen/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100093116115676)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/23371165/md-anower-hossen)  
 
