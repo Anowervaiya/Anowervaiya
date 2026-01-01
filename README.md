@@ -102,4 +102,8 @@ I'm Anower Hossen , a passionate and dedicated Full Stack Developer specializing
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=anowervaiya&theme=radical)
 
+![Top Langs](https://anower-github-stats.vercel.app/api/top-langs/?username=anowervaiya&layout=compact)
+
+![GitHub stats](https://github-readme-stats-vercel-lyart.vercel.app/api?username=anowervaiya&show_icons=true&theme=radical)
+
 
