@@ -4,8 +4,8 @@
 👑 I am Web Developer <br>
 🖊️ Love to write code
 
-<p align="center">
-  <img src="./banner.png" alt="Banner" width="800" />
+<p align="left">
+  <img src="./banner.png" alt="Banner" width="600" />
 </p>
 
 🚀 About Me <br>
