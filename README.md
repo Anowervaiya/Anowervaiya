@@ -92,7 +92,7 @@ I'm Anower Hossen , a passionate and dedicated Full Stack Developer specializing
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anowervaiya)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anowervaiya)](https://github.com/anuraghazra/github-readme-stats)
 ![Anowervaiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anowervaiya&show_icons=true&theme=radical)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Anowervaiya)  
 
@@ -102,12 +102,4 @@ I'm Anower Hossen , a passionate and dedicated Full Stack Developer specializing
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=anowervaiya&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anowervaiya&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anowervaiya&layout=compact" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=anowervaiya&theme=radical"/>
-</p>
 
