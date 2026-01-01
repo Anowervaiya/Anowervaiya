@@ -5,7 +5,7 @@
 🖊️ Love to write code
 
 <p align="center">
-  <img src="./banner.png" alt="Banner" width="400" />
+  <img src="./banner.png" alt="Banner" width="800" />
 </p>
 
 🚀 About Me <br>
