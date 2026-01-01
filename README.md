@@ -97,4 +97,11 @@ I'm Anower Hossen , a passionate and dedicated Full Stack Developer specializing
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anowervaiya&show_icons=true&locale=en&layout=compact" alt="anowervaiya" /></p>
+<p align="center">
+  <img src="https://github-readme-stats-vercel-lyart.vercel.app/api?username=anowervaiya&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats-vercel-lyart.vercel.app/api/top-langs/?username=anowervaiya&layout=compact" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=anowervaiya&theme=radical"/>
+</p>
