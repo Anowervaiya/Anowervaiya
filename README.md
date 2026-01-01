@@ -2,7 +2,7 @@
 ![](https://media.licdn.com/dms/image/D5616AQEFao7FVualvg/profile-displaybackgroundimage-shrink_350_1400/0/1717909894555?e=1723680000&v=beta&t=tld1AEcQGTmBsvZItSV4vb-3cg_Jat6YNqymbNSWlaE)
 👑 I am Web Developer <br>
 🖊️ Love to write code
-<img src='https://drive.google.com/file/d/1-Dn0OfdXe-CCUh6x6RoiMooXN0e8onXM/view?usp=sharing' alt='github' height='40'>
+<img align="center" width="400" src='https://drive.google.com/file/d/1-Dn0OfdXe-CCUh6x6RoiMooXN0e8onXM/view?usp=sharing' alt='github' height='40'>
 
 
 🚀 About Me <br>
